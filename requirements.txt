@@ -1,0 +1,7 @@
+streamlit
+langgraph
+langchain_groq
+easyocr
+pillow
+numpy
+pymupdf
