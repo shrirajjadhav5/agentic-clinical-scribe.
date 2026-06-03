@@ -1,10 +1,14 @@
 Agentic AI for Clinical Discharge Summaries
 
 This repository contains an agentic AI system designed to transform messy, handwritten, and contradictory clinical source notes into structured, clinically safe discharge summary drafts.
+
 Role: AI Engineer 
+
 Tech Stack: Python, Streamlit, LangGraph, Groq (Llama 3.3 70B), EasyOCR, PyMuPDF.
-🚀 Live Demo
+
+🚀 Live Demo-https://agentic-clinical-scribe-cn74zu3y73whcqqcupwpbh.streamlit.app/
 Click here to view the Live App on Streamlit Cloud
+
 🧠 System Architecture
 Unlike a standard linear LLM pipeline, this system uses a State Machine (LangGraph) to implement a true agentic loop.
 
